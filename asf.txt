@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 asfaaaaaaaaaaaaaa
+=======
+asfdddddd
+1
+>>>>>>> dev
